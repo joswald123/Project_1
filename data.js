@@ -13,9 +13,7 @@ const quotes = [
     },
     {
         quote: "What necessity is there to dwell on the Past, when the Present is so much surer—the Future so much brighter?",
-        source: " ~Jane Eyre",
-        citation: "(Charlotte Bronte, 1c847, p. 265)",
-        year: 1849
+        source: " ~Jane Eyre"
     },
     {
         quote: "What necessity is there to dwell on the Past, when the Present is so much surer—the Future so much brighter?",
@@ -25,9 +23,7 @@ const quotes = [
     },
     {
         quote: "What necessity is there to dwell on the Past, when the Present is so much surer—the Future so much brighter?",
-        source: " ~Jane Eyre",
-        citation: "(Charlotte Bronte, 1847, p. 265)",
-        year: 1851
+        source: " ~Jane Eyre"
     },
     {
         quote: "What necessity is there to dwell on the Past, when the Present is so much surer—the Future so much brighter?",
