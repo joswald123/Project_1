@@ -37,4 +37,3 @@ const quotes = [
     }
 ];
 
-console.log(quotes);
