@@ -6,7 +6,7 @@ const quotes = [
         year: 1847
     },
     {
-        quote: "What necessity is there to dwell on the Past, when the Present is so much surer—the Future so much brighter?",
+        quote: "What necessity is there to dwell on the Past,",
         source: " ~Jane Eyre",
         citation: "(Charlotte Bronte, 1847, p. 265)",
         year: 1848
